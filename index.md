@@ -1,9 +1,9 @@
 ## Joshua Reprogle's first CS193 Lab
 
 ### Favorite things about CS913
--Help with new resources I am not used to
--Instructors who know how to help us
--A nice easy introduction into CS at Purdue
+- Help with new resources I am not used to
+- Instructors who know how to help us
+- A nice easy introduction into CS at Purdue
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
